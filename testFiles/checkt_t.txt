@@ -1,0 +1,8 @@
+my,40
+you,23
+123,45
+#fro,23
+deep,56
+never,23
+something,23
+blow,34

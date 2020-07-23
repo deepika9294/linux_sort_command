@@ -1,0 +1,37 @@
+List of tested Commands:
+
+./sort -k1.2 "../testFiles/check2_columns.txt"
+./sort -nk2 "../testFiles/check9.txt"
+./sort -nk3.1 "../testFiles/check9.txt"
+./sort -t,1 "../testFiles/checkt_t.txt"
+./sort -n "../testFiles/check1.txt"
+./sort -d "../testFiles/check1.txt"
+./sort -u "../testFiles/check1.txt"
+./sort -k1 "../testFiles/check2_columns_blanks.txt"
+./sort -k2 "../testFiles/check2_columns_blanks.txt"
+./sort -d "../testFiles/check2_columns_blanks.txt"
+./sort -u "../testFiles/check2_columns_blanks.txt"
+./sort -i "../testFiles/check2_columns_blanks.txt"
+./sort -b "../testFiles/check2_columns_blanks.txt"
+./sort -r "../testFiles/check2_columns_blanks.txt"
+./sort -n
+./sort -m check2_columns.txt check8.txt"
+./sort -k3 "../testFiles/check9.txt"
+./sort -k1 "../testFiles/ls-file.txt"
+./sort -k2 "../testFiles/ls-file.txt"
+./sort -k7 "../testFiles/ls-file.txt"
+./sort -t:2 "../testFiles/ls-file.txt"
+./sort -r "../testFiles/ls-file.txt"
+./sort -ks "../testFiles/ls-file.txt"
+./sort -p "../testFiles/ls-file.txt"
+./sort -m "../testFiles/file1.txt"
+./sort -nr "../testFiles/check1.txt"
+./sort -rn "../testFiles/check1.txt"
+./sort --h
+./sort -k1.3 "../testFiles/check2_columns.txt"
+./sort -i "../testFiles/nonprint.txt"
+./sort -d "../testFiles/nonprint.txt"
+./sort -b "../testFiles/nonprint.txt"
+./sort
+./sort -f "../testFiles/check8.txt"
+./sort k
