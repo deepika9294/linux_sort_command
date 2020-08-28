@@ -6,6 +6,7 @@ With this command we can run many options to sort a particular file, methods are
 Usage: ./sort [OPTION] [FILE] 
 If no file is mention then, user is supposed to give inputs:
 		Usage: ./sort [OPTION] (Start giving inputs) 
+		
 If merging two files then: ./sort [OPTION] [FILE1] [FILE2]
 
      OPTIONS:
