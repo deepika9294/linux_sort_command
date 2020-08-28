@@ -4,6 +4,7 @@ With this command we can run many options to sort a particular file, methods are
 
 
 Usage: ./sort [OPTION] [FILE] 
+
 If no file is mention then, user is supposed to give inputs:
 		Usage: ./sort [OPTION] (Start giving inputs) 
 		
