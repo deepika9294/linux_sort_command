@@ -1,10 +1,6 @@
-*****************************************************************************
-Name : Deepika Goyal
-Project : Linux Sort-Command (with external sorting)
----------DSA MINI PROJECT-------------------
-******************************************************************************
 
-In this command we can run many options to sort a particular file, methods are given below:
+
+With this command we can run many options to sort a particular file, methods are given below:
 
 
 Usage: ./sort [OPTION] [FILE] 
