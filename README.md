@@ -40,7 +40,7 @@
 **External sorting** is supported and is implemented with the help of heaps. External sorting is required when the data being sorted do not fit into the main memory of a computing device (usually RAM) and instead they must reside in the slower external memory, usually a hard disk drive.
 
 
-  [![forthebadge](https://forthebadge.com/images/badges/made-with-c.svg)](https://forthebadge.com)
+  [![forthebadge](https://forthebadge.com/images/badges/made-with-c.svg)](https://www.cprogramming.com/)
 
 
 
